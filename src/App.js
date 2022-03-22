@@ -12,9 +12,9 @@ class App extends React.Component {
     return (
       <div class="bg-fixed">
         <Milestone />
+        <Growth />
         <Token />
         <Assets />
-        <Growth />
       </div>
     );
   }
